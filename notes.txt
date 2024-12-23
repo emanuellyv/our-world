@@ -2,3 +2,6 @@ Repo link -> https://github.com/emanuellyv/our-world
 -----------------------------------------------------
 
 22/12/2024 -> Starting project...
+- Add main files and folders
+	- Organize them
+- Still haven't decided about the fonts
